@@ -1,3 +1,3 @@
 # my-first-project
 
-This is my first homework1
+This is an example project
